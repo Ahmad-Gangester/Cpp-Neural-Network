@@ -1,0 +1,6 @@
+
+Pass: 0
+Inputs: 1 1 
+Result: 0.994624
+Target: 0
+How well am I working : 0
